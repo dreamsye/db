@@ -1,0 +1,22 @@
+@charset 'utf-8';
+
+.page{
+    padding-top:47px;
+}
+ 
+::-webkit-scrollbar{
+    display:none;
+} 
+
+.common-header{
+    margin-left: 0.1792rem;
+    font-size: 18px;
+}
+
+.pleft{
+    margin-left: 0.1792rem;
+}
+
+body,html{
+    height:100%;
+}
